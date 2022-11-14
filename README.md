@@ -3,8 +3,3 @@
 - 👀 I’m interested in showing my programming skills and the different projects I have been involved in.
 - 📫 Linkedin: www.linkedin.com/in/juan-alv/
 
-
-<!---
-Jualas7399/Jualas7399 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
